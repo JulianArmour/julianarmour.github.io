@@ -1,0 +1,4 @@
+baseURL: 'https://julianarmour.github.io/'
+languageCode: 'en-us'
+title: "Julian's Blog"
+theme: ["PaperMod"]
