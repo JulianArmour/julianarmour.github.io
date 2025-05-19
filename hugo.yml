@@ -1,4 +1,7 @@
 baseURL: 'https://julianarmour.github.io/'
+caches:
+  images:
+    dir: :cacheDir/images
 languageCode: 'en-us'
 title: "Julian's Blog"
 theme: ["PaperMod"]
